@@ -1,5 +1,5 @@
 # Anima
-Video a Gif (Video to Gif)
+Video a Gif para Linux (Video to Gif for Linux)
 <ul>
 <li>anima.sh - Anima selecciona una parte predeterminada de un video para convertirlo a Gif animado.</li>
 </ul>
